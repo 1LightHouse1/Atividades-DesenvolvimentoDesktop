@@ -52,11 +52,11 @@ input[type=button]{
 }
 
 .darkmode #tela-central  {
-    background-color: #ffffff; /* Cor de fundo para o modo escuro */
-    color: #020202; /* Cor do texto para o modo escuro */
+    background-color: #ffffff; 
+    color: #020202; 
 }
 
 .darkmode #mudartema  {
-    background-color: #000000; /* Cor de fundo para o modo escuro */
-    color: #ffffff; /* Cor do texto para o modo escuro */
+    background-color: #000000; 
+    color: #ffffff; 
 }
